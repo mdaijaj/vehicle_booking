@@ -1,4 +1,4 @@
-# vehicle_rent_booking
+# Vehicle Booking
 ## Project Overview
 This project is a vehicle rental application that enables users to book a vehicle by selecting vehicle type, specific model, and rental dates. 
 It features a multi-step form for collecting booking details and a backend to manage vehicle availability and bookings.
