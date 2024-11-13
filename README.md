@@ -88,9 +88,9 @@ http://localhost:5000
 ```
 
 ### Frontend:-
-```
+
 cd `vehicle_booking/frontend`
-Install dependencies:
+Install dependencies:-
 ```
 yarn install or npm install 
 ```
