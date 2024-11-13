@@ -20,10 +20,15 @@ Frontend: Each question must be answered before proceeding to the next step. Err
 Backend: Validates booking dates to prevent overlaps.
 
 Create a MySQL database named vehicle_booking.
-## Create a users table with the following schema:
+## Create a table with the following schema:
 - type_of_vehicle -
 - specefic_model -
 - booking -
+
+### Relations and Association with Tables:-
+One to One 
+Many to One
+
 
 ### API Endpoints
 Vehicle Type API (Get `/api/getAllVehicleTypes`) <br/>
