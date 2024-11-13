@@ -81,7 +81,6 @@ DATABASE_NAME=vehicle_booking
 ```
 
 Start the server:
-
 ```
 yarn run start or npm start
 ```
@@ -89,6 +88,21 @@ yarn run start or npm start
 http://localhost:5000
 ```
 
+### Frontend:-
+```
+cd `vehicle_booking/frontend`
+Install dependencies:
+```
+yarn install or npm install 
+```
+
+Start the server:
+```
+npm run start
+```
+```
+http://localhost:3000
+```
 Testing
 
 Unit Tests: Write tests for controllers, services, and entities to verify proper functionality and error handling.
