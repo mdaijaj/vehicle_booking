@@ -8,7 +8,6 @@ It features a multi-step form for collecting booking details and a backend to ma
 - JavaScript - Programming language
 - MySQL - Relational database (or preferred alternative)
 - ORM - Sequlize ORM
-- Database Setup
 
 Create a MySQL database named vehicle_booking.
 ## Create a users table with the following schema:
