@@ -26,9 +26,9 @@ Create a MySQL database named vehicle_booking.
 - booking -
 
 ### Relations and Association with Tables:-
-One to One 
-Many to One
-
+- One to One -
+- Many to One -
+  
 
 ### API Endpoints
 Vehicle Type API (Get `/api/getAllVehicleTypes`) <br/>
