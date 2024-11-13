@@ -9,6 +9,16 @@ It features a multi-step form for collecting booking details and a backend to ma
 - MySQL - Relational database (or preferred alternative)
 - ORM - Sequlize ORM
 
+## Features
+Multi-step form interface with one question per screen
+Dynamic data fetching for vehicle types and models based on user input
+Backend validation to prevent overlapping bookings
+Database seeding for initial data setup
+
+## Validation and Error Handling
+Frontend: Each question must be answered before proceeding to the next step. Error messages are shown for any missing input.
+Backend: Validates booking dates to prevent overlaps.
+
 Create a MySQL database named vehicle_booking.
 ## Create a users table with the following schema:
 - type_of_vehicle -
